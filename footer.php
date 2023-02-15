@@ -1,1 +1,1 @@
-<h3>Prueba de un footer</h3>
+<h3>Footer</h3>
