@@ -1,1 +1,2 @@
 <h3>Footer</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas earum nam, doloribus fugit laudantium, repellat dignissimos porro ratione, reiciendis delectus dolorum voluptatem obcaecati at. Adipisci quo iusto distinctio magnam quod?</p>

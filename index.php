@@ -9,6 +9,5 @@
 <body>
   <h1>ESTATICA</h1>
   <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Exercitationem alias, corrupti laborum maiores, tempora nisi praesentium, inventore sequi id voluptatem quo aperiam fuga? Quia, voluptate hic aspernatur autem repudiandae dolore!</p>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur vel iure officiis laboriosam neque cum id iste earum assumenda harum laborum ad veniam dolor autem ut est corrupti, quis officia?</p>
 </body>
 </html>
