@@ -13,4 +13,5 @@
   <?php require 'contenido.php' ?>
   <?php include 'footer.php' ?>
 </body>
+  <script src="./js/bootstrap.js"></script>
 </html>
